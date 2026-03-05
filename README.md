@@ -12,7 +12,6 @@ This project predicts stock prices using Deep Learning (LSTM).
 - matplotlib
 - tensorflow
 
-
 ## Features
 - Real stock data
 - Deep learning prediction
