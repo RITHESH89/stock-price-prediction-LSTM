@@ -4,7 +4,7 @@ from tensorflow.keras.models import load_model
 
 model = load_model("../src/lstm_model.h5")
 
-st.title("📈 Stock Price Prediction")
+st.title("📈Stock Price Prediction")
 
 st.write("AI predicts future stock prices using LSTM")
 
