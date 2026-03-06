@@ -11,7 +11,6 @@ This project predicts stock prices using Deep Learning (LSTM).
 - seaborn
 - matplotlib
   
-
 ## Features
 - Real stock data
 - Deep learning prediction
