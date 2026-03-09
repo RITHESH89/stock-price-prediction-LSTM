@@ -1,4 +1,4 @@
-## Stock Price Prediction using LSTM
+## Stock Price Prediction
 
 ## Project Overview
 This project predicts stock prices using Deep Learning (LSTM).
