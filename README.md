@@ -14,7 +14,8 @@ This project predicts stock prices using Deep Learning model (LSTM).
   
 ## Features
 - Real stock data
-- Deep learning prediction
+- Deep learning
+-  prediction
 - Visualization
 - Web app
 
