@@ -1,7 +1,7 @@
 ## Stock Price Prediction LSTM
 
 ## Project Overview
-This project predicts stock prices using Deep Learning m0del (LSTM).
+This project predicts stock prices using Deep Learning model (LSTM).
 
 ## Technologies
 - Python
