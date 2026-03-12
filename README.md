@@ -19,4 +19,4 @@ This project predicts stock prices using Deep Learning (LSTM).
 - Web app
 
 ## Result
-Model successfully predicts future trend based on historical data.
+The model successfully predicts future trend based on historical data.
