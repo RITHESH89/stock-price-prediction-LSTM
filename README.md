@@ -8,6 +8,7 @@ This project predicts stock prices using Deep Learning model (LSTM).
 - pandas
 - LSTM
 - seaborn
+- Streamlit
 - TensorFlow
 - matplotlib
   
