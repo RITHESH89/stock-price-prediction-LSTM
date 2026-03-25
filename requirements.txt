@@ -1,7 +1,6 @@
 python
 numpy
 pandas
-python
 matplotlib
 scikit-learn
 tensorflow
