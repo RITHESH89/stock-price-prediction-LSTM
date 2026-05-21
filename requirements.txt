@@ -4,3 +4,6 @@ pandas
 matplotlib
 scikit-learn
 tensorflow
+yfinance
+streamlit
+seaborn
