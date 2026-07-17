@@ -4,9 +4,7 @@
 This project predicts stock prices using Deep Learning model & (LSTM).
 
 ## Technologies
- - Python
-- pandas
-
+ 
 
 ## Features
 - Real stock data
