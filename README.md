@@ -15,7 +15,6 @@ This project predicts stock prices using Deep Learning model & (LSTM).
 
 
 ## Features
-- Real stock data
 
 ## Result
 The model successfully predicts future trend based on historical data.
