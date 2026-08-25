@@ -4,7 +4,6 @@
 This project predicts stock prices using Deep Learning model & (LSTM).
 
 ## Technologies
-## Technologies
   - Python
 - pandas
 - seaborn
