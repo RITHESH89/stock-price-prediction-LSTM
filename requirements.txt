@@ -1,7 +1,5 @@
 python
 numpy
 pandas
-matplotlib
-scikit-learn
-tensorflow
+matplotlibtensorflow
 
